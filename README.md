@@ -39,6 +39,7 @@ To ensure seamless access and scalability, we leveraged the power of Amazon Web 
 
 ### Conclusion: A Triumph of Data Science
 In the realm where football meets data science, we've witnessed the triumph of knowledge, passion, and innovation. As we bid farewell to the FIFA Prediction 2023 project, let us carry forward the spirit of exploration and discovery, forever united by the love of the beautiful game.
+![final_result](https://github.com/mdoctos/FIFA-pred/assets/57889962/f924580f-bd75-4118-87ad-17e631d5fc5f)
 
 ---
 
@@ -49,6 +50,4 @@ Join us on this exhilarating journey through the world of football data. Explore
 
 #### *Disclaimer: Predictions are based on historical data and are subject to change based on real-world events and dynamics.*
 
----
 
-Feel free to adjust the content or styling to suit your preferences!
